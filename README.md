@@ -1,8 +1,6 @@
 # welcome 👋
 
-**"consistency is a key."**
-
-## Here you can check out some info 'bout me:
+### **"consistency is a key."**
 
 ### Full-stack developer
 
