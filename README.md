@@ -1,6 +1,6 @@
 # welcome 👋
 
-### **"consistency is a key."**
+### **"brick-by-brick, day-by-day."**
 
 ### Full-stack developer
 
