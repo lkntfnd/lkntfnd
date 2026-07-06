@@ -4,7 +4,7 @@
 
 ### Full-stack developer
 
- Utilizing TypeScript, Python and Go -> comfortably owning a feature from database schema to deployment and monitoring.
+ Utilizing TypeScript, Python and Go -> taking ownership of features across the full stack, from intuitive user interfaces and database design to deployment, monitoring, and continuous refinement.
  
  I'm drawn to backend architecture and the systems layer - queues, data pipelines, observability -> enjoy turning that into clean, modern and re-usable frontend layers. 
  ATM focused on sharpening backend skill.
