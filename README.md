@@ -29,5 +29,5 @@ Database:
 ```
 ```bash
 DevOps: 
-- AWS + GitHub Actions + Linux + Prometheus/Loki + Grafana
+- CI/CD + AWS + GitHub Actions + Linux + Prometheus/Loki + Grafana
 ```
