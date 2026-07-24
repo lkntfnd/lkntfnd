@@ -16,7 +16,7 @@ Currently building: Pulse === AI-powered middle management intel tool.
 ## 🛠 Some of skills:
 ```bash
 Frontend: 
-- React, Vite, Tailwind CSS, Framer Motion, Zustand, Zod, React Helmet
+- React, Vite, Tailwind CSS, GSAP, Framer Motion, Zustand, Zod, React Helmet
 ```
 ```bash
 Backend: 
