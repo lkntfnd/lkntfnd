@@ -6,11 +6,14 @@
 
  Utilizing TypeScript, Python and Go -> taking ownership of features across the full stack, from intuitive user interfaces and database design to deployment, monitoring, and continuous refinement.
  
- I'm drawn to backend architecture and the systems layer - queues, data pipelines, observability -> enjoy turning that into clean, modern and re-usable frontend layers. 
+ Backend architecture and the system layers - queues, data pipelines, observability -> enjoy turning that into clean, modern and re-usable frontend layers. 
  ATM focused on sharpening backend skill.
 
 ```bash
-Currently building: Pulse === AI-powered middle management intel tool.
+Currently building: 
+- Pulse === AI-powered middle management intel tool.
+- ??? === Fitness app with AI-powered brain.
+- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers.
 ```
 
 ## 🛠 Some of skills:
