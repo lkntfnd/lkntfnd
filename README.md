@@ -18,7 +18,7 @@ Currently building:
 ## 🛠 Some of skills:
 ```bash
 Frontend: 
-- Next.js React, React-Native, React-Three-Fiber + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod
+- React, React-Native, React-Three-Fiber + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod
 ```
 ```bash
 Backend: 
