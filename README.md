@@ -18,11 +18,11 @@ Currently building:
 ## 🛠 Some of skills:
 ```bash
 Frontend: 
-- React, React-Native, React-Three-Fiber + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod
+- Next.js React, React-Native, React-Three-Fiber + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod
 ```
 ```bash
 Backend: 
-- TypeScript + Node.js + Fastify + Prisma/Drizzle + RabbitMQ/BullMQ 
+- TypeScript + Node.js + NestJS+Fastify + Prisma/Drizzle + RabbitMQ/BullMQ 
 - Python + FastAPI + SQLAlchemy/SQLModel + Alembic + Celery
 ```
 ```bash
