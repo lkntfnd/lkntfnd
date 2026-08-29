@@ -2,7 +2,7 @@
 
 #### **"Creating with intention. Improving with every iteration.."**
 
-### Prompt Engineer • LLM Applications • Full-Stack Development
+### Prompt Engineering • LLM Applications • Full-Stack Development
 
  Utilizing TypeScript, Python and Go -> taking ownership of features across the full stack, from intuitive user interfaces and database design to deployment, monitoring, and continuous refinement.
  
