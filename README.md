@@ -1,6 +1,6 @@
 # welcome 👋
 
-#### **"Creating with intention. Improving with every iteration.."**
+#### **"Creating with intention. Improving with every iteration."**
 
 ### Prompt Engineering • LLM Applications • Full-Stack Development
 
