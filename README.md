@@ -10,7 +10,7 @@
 
 ```bash
 Currently building: 
-- Pulse === AI-powered middle management intel tool -> online tool.
+- ??? === AI-powered middle management intel tool -> online tool. [frozen]
 - ??? === Fitness app with AI-powered brain -> mobile app.
 - ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app.
 ```
