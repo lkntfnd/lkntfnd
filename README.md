@@ -6,7 +6,7 @@
 
  Utilizing TypeScript, Python and Go -> taking ownership of features across the full stack, from intuitive user interfaces and database design to deployment, monitoring, and continuous refinement.
  
- Backend architecture and the system layers - queues, data pipelines, observability -> enjoy turning that into clean, modern and re-usable frontend layers. 
+ Backend architecture and the system layers - queues, data pipelines, observability -> turning that into clean, modern and re-usable frontend layers. 
 
 ```bash
 Currently building: 
@@ -18,16 +18,16 @@ Currently building:
 ## 🛠 Some of skills:
 ```bash
 Frontend: 
-- React, React-Native, React-Three-Fiber + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod
+- React, React-Native, React-Three-Fiber + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod + Flutter(Impeller)
 ```
 ```bash
 Backend: 
 - TypeScript + Node.js + NestJS+Fastify + Prisma/Drizzle + RabbitMQ/BullMQ 
-- Python + FastAPI + SQLAlchemy/SQLModel + Alembic + Celery
+- Python + FastAPI + SQLAlchemy/SQLModel + Alembic + Celery + Isar + Hive + Bloc
 ```
 ```bash
 Database: 
-- PostgreSQL/SQLite/Supabase + Redis
+- PostgreSQL/SQLite/Supabase/Firebase + Redis
 ```
 ```bash
 DevOps: 
