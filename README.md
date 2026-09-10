@@ -1,12 +1,12 @@
 # welcome 👋
 
-#### **"Creating with intention. Improving with every iteration."**
+#### **"Ambiguity → I can make it happen."**
 
 ### Prompt Engineering • LLM Applications • Full-Stack Development
 
- Utilizing TypeScript, Python and Go -> taking ownership of features across the full stack, from intuitive user interfaces and database design to deployment, monitoring, and continuous refinement.
- 
- Backend architecture and the system layers - queues, data pipelines, observability -> turning that into clean, modern and re-usable frontend layers. 
+ TypeScript, Python, Go → taking things from idea to production. UI, data, backend, deployment, monitoring - full ownership.
+
+ Queues, data pipelines, observability, system architecture → turning complexity into clean, modern, reusable interfaces.
 
 ```bash
 Currently building: 
@@ -15,16 +15,15 @@ Currently building:
 - ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app.
 ```
 
-## 🛠 Some of skills:
+## 🛠 Skills:
 ```bash
 Frontend: 
-- React, React-Native, React-Three-Fiber + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod + 
-    + Flutter(Impeller)
+- React + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod + Flutter
 ```
 ```bash
 Backend: 
-- TypeScript + Node.js + NestJS+Fastify + Prisma/Drizzle + RabbitMQ/BullMQ 
-- Python + FastAPI + SQLAlchemy/SQLModel + Alembic + Celery + Isar + Hive + Bloc
+- TypeScript + Node.js + NestJS + Fastify + Prisma/Drizzle + RabbitMQ/BullMQ 
+- Python + FastAPI + SQLAlchemy/SQLModel + Alembic + Celery
 ```
 ```bash
 Database: 
