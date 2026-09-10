@@ -18,7 +18,7 @@ Currently building:
 ## 🛠 Skills:
 ```bash
 Frontend: 
-- React + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod + Flutter
+- React + Electron + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod + Flutter
 ```
 ```bash
 Backend: 
