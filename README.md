@@ -2,7 +2,7 @@
 
 #### **"Ambiguity → I can make it happen."**
 
-### Prompt Engineering • LLM Applications • Full-Stack Development
+### Full-Stack Development • LLM Applications • Prompt Engineering
 
  TypeScript, Python, Go → taking things from idea to production. UI, data, backend, deployment, monitoring - full ownership.
 
@@ -18,7 +18,7 @@ Currently building:
 ## 🛠 Skills:
 ```bash
 Frontend: 
-- React + Electron + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod + Flutter
+- React + Flutter + Dart + Electron + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod 
 ```
 ```bash
 Backend: 
