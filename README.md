@@ -2,7 +2,7 @@
 
 #### **"Ambiguity → I can make it happen."**
 
-### Full-Stack Development • LLM Applications • Prompt Engineering
+### Full-Stack Development • LLM-Applications • AI-automations • FDE
 
  TypeScript, Python, Go → taking things from idea to production. UI, data, backend, deployment, monitoring - full ownership.
 
@@ -10,9 +10,9 @@
 
 ```bash
 Currently building: 
-- ??? === Mobile app for online store.
-- ??? === Fitness app with AI-powered brain -> mobile app.
-- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app.
+- ??? === Mobile app for online store. [active]
+- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app. [active]
+- ??? === Fitness app with AI-powered brain -> mobile app. [paused]
 
 - ??? === AI-powered middle management intel tool -> online tool. [frozen]
 ```
