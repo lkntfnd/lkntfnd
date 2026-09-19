@@ -10,9 +10,11 @@
 
 ```bash
 Currently building: 
-- ??? === AI-powered middle management intel tool -> online tool. [frozen]
+- ??? === Mobile app for online store.
 - ??? === Fitness app with AI-powered brain -> mobile app.
 - ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app.
+
+- ??? === AI-powered middle management intel tool -> online tool. [frozen]
 ```
 
 ## 🛠 Skills:
