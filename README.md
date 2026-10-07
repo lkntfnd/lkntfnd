@@ -4,14 +4,14 @@
 
 ### Full-Stack Development • LLM-Applications • AI-automations • FDE
 
- TypeScript, Python, Go → taking things from idea to production. UI, data, backend, deployment, monitoring - full ownership.
+ TypeScript, Python, Go → taking things from idea to production. UI, data, backend, deployment, monitoring -> full ownership.
 
  Queues, data pipelines, observability, system architecture → turning complexity into clean, modern, reusable interfaces.
 
 ```bash
 Currently building: 
 - ??? === Mobile app for online store. [active]
-- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app. [active]
+- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app. [paused]
 - ??? === Fitness app with AI-powered brain -> mobile app. [paused]
 
 - ??? === AI-powered middle management intel tool -> online tool. [frozen]
