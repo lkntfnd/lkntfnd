@@ -11,23 +11,24 @@
 ```bash
 Currently building: 
 - ??? === Mobile app for online store. [active]
-- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app. [paused]
+- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app. [active]
 - ??? === Fitness app with AI-powered brain -> mobile app. [paused]
 
 - ??? === AI-powered middle management intel tool -> online tool. [frozen]
 ```
 
 ## 🛠 Skills:
-```Frontend:
+```bash
+Front:
 - React + Flutter + Dart + Electron + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod 
 ```
 ```bash
-Backend: 
+Back: 
 - TypeScript + Node.js + NestJS + Fastify + Prisma/Drizzle + RabbitMQ/BullMQ 
 - Python + FastAPI + SQLAlchemy/SQLModel + Alembic + Celery
 ```
 ```bash
-Database: 
+DB: 
 - PostgreSQL/SQLite/Supabase/Firebase + Redis
 ```
 ```bash
