@@ -4,7 +4,7 @@
 
 ### Full-Stack Development • LLM-Applications • AI-automations • FDE
 
- TypeScript, Python, Go → taking things from idea to production. UI, data, backend, deployment, monitoring -> full ownership.
+ TypeScript, Python, Bash, Go → taking things from idea to production. UI, data, backend, deployment, monitoring -> full ownership.
 
  Queues, data pipelines, observability, system architecture → turning complexity into clean, modern, reusable interfaces.
 
@@ -18,8 +18,7 @@ Currently building:
 ```
 
 ## 🛠 Skills:
-```bash
-Frontend: 
+```Frontend:
 - React + Flutter + Dart + Electron + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod 
 ```
 ```bash
