@@ -11,7 +11,7 @@
 ```bash
 Currently building: 
 - ??? === Mobile app for online store. [active]
-- ??? === App for coffee shops to manage their orders, inventory and web-menus for customers -> mobile app. [active]
+- ??? === App for coffee shops to manage their orders and customers. Full-ecosystem with multi-tenant isolation [active]
 - ??? === Fitness app with AI-powered brain -> mobile app. [paused]
 
 - ??? === AI-powered middle management intel tool -> online tool. [frozen]
