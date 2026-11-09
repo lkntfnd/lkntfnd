@@ -1,6 +1,6 @@
 # welcome 👋
 
-#### **"Ambiguity → I can make it happen."**
+#### **"I can make it happen."**
 
 ### Full-Stack Development • LLM-Applications • AI-automations • FDE
 
