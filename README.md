@@ -11,8 +11,9 @@
 ```bash
 Currently building: 
 - ??? === Mobile app for online store. [active]
-- ??? === App for coffee shops to manage their orders and customers. Full-ecosystem with multi-tenant isolation [active]
-- ??? === Fitness app with AI-powered brain -> mobile app. [paused]
+- ??? === Ecosystem with admin-platform controls 2 websites containments. [active]
+- ??? === App for coffee shops to manage their orders and customers. Full-ecosystem with multi-tenant isolation [paused]
+- ??? === Fitness app with AI-powered brain -> mobile app. [frozen]
 
 - ??? === AI-powered middle management intel tool -> online tool. [frozen]
 ```
@@ -20,7 +21,7 @@ Currently building:
 ## 🛠 Skills:
 ```bash
 Front:
-- React + Flutter + Dart + Electron + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod
+- React + Flutter + Dart + Electron + Rune + Next.js + Vite + Vue + Tailwind CSS + GSAP/Framer Motion + Zustand + Zod
 
 ```
 ```bash
@@ -34,5 +35,5 @@ DB:
 ```
 ```bash
 DevOps: 
-- CI/CD + AWS + GitHub Actions + Linux + Prometheus/Loki + Grafana
+- CI/CD + AWS + GitHub Actions + Linux + Scripts + Prometheus/Loki + Grafana
 ```
